@@ -21,5 +21,9 @@ local.properties
 /.gradle/
 .gradle/
 
+# iml files
+udacity-p0-myapp.iml
+app.iml
+
 # Misc
 .DS_STORE
