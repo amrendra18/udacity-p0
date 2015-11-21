@@ -26,7 +26,7 @@ local.properties
 
 # iml files
 udacity-p0-myapp.iml
-app.iml
+app/app.iml
 
 # Misc
 .DS_STORE
